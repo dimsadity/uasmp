@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'geolocation_page.dart'; // Pastikan impor halaman GeolocationPage
+import 'geolocation_page.dart';
 
 class FeaturePage extends StatelessWidget {
   final List<Map<String, dynamic>> features = [
